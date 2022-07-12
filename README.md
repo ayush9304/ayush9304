@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 <!--
 **ayush9304/ayush9304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
